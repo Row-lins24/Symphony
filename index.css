@@ -21,7 +21,7 @@ body {
 /* Header section styles */
 header {
     width: 100%;
-    padding: 0;
+    padding: 2rem;
     height: fit-content;
     background-image: url("../images/285779bbc5c769b076ed8c2a0a8d485a_1.jpg");
     background-size: cover;
@@ -35,8 +35,6 @@ nav {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    position: fixed;
-    top:0;
     padding: 1rem;
     width: 100%;
     /* From https://css.glass */
